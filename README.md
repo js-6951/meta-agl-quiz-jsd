@@ -62,7 +62,7 @@ cd $AGL_TOP/<<branch name>>/qemux86_64
 source agl-init-build-env   
 runqemu kvm serialstdio slirp publicvnc
 ```
-![Booting the image](https://github.com/js-6951/meta-agl-quiz-jsd/blob/main/qemu_booted.png)
+![Booting the image](https://github.com/js-6951/meta-agl-quiz-jsd/blob/main/qemu_booting.png)
 
 Connect to the QEMU machine via VNC (Port 0):
 
