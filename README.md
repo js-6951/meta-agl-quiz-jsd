@@ -39,7 +39,7 @@ This layer can be installed by cloning into the AGL/{release}/ directory using t
 ```
 cd $AGL_TOP/<<branch name>> 
 git clone git@github.com:js-6951/meta-agl-quiz-jsd.git
-bitbake-layers add-layer agl-quiz-jsd
+bitbake-layers add-layer meta-agl-quiz-jsd
 ```
 
 To build the layer:
