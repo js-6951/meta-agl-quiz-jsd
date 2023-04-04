@@ -9,7 +9,7 @@ The Flutter app is hosted [here](https://github.com/js-6951/agl-quiz-jsd).
 Dependencies
 ============
 
- - agl-image-flutter-runtimedebug
+ - agl-image-flutter-runtimerelease
 
 ### Prerequisites:
 
