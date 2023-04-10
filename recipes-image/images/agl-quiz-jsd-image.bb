@@ -4,4 +4,4 @@ LICENSE = "MIT"
 
 require recipes-platform/images/agl-image-flutter-runtimerelease.bb
 
-IMAGE_INSTALL:append = " agl-quiz-jsd"
+IMAGE_INSTALL:append = " agl-quiz-jsd kuksa-val-agl kuksa-viss-client"
