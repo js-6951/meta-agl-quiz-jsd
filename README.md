@@ -15,7 +15,7 @@ Dependencies
 
 [Prepare the Build Host](https://docs.automotivelinux.org/en/octopus/#01_Getting_Started/02_Building_AGL_Image/02_Preparing_Your_Build_Host/)
 
-[Downlaod AGL](https://docs.automotivelinux.org/en/octopus/#01_Getting_Started/02_Building_AGL_Image/03_Downloading_AGL_Software/)
+[Download AGL](https://docs.automotivelinux.org/en/octopus/#01_Getting_Started/02_Building_AGL_Image/03_Downloading_AGL_Software/)
 
 [Initialize the build environment](https://docs.automotivelinux.org/en/octopus/#01_Getting_Started/02_Building_AGL_Image/04_Initializing_Your_Build_Environment/)
 
